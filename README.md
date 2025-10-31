@@ -115,7 +115,9 @@ Confirm the default settings (they are usually correct) and click "Deploy".
 
 **Shivanna DM**  
 🎓 Project — viral post replicator  
+
 💬 Focus: AI analysis, Full-Stack Development, Rwact, Vercel
+
 🌐 GitHub: [github.com/shivannadm](https://github.com/shivannadm)
 
 ## ✅ Summary
